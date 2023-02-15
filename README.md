@@ -1,6 +1,7 @@
 ### Hi, I'm Felipe Torquato
+hello my name is felipe torquato and i am a technical high school student at ETEC Rua Jorge school. and I'm trying to get into the programming market
 
-Here are some ideas to get you started:
+### About me
 
 - 🔭 Currently working: on my cbt project for my technical high school
 
