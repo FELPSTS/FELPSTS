@@ -8,7 +8,7 @@
 
 - 📫 How to get there: you can contact me on my email felipe.s.d.souza@gmail.com
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ##
 <div style="display: inline_block"><br>
