@@ -1,4 +1,6 @@
-### Hi, I'm Felipe Torquato.      Systems development student at the technical high school at, ETEC Jorge Street school.  and I'm trying to get into the world of programming
+### Hi, I'm Felipe Torquato.   
+
+   Systems development student at the technical high school at, ETEC Jorge Street school.  and I'm trying to get into the world of programming
 ### About me
 
 - 🔭 Currently working: on my cbt project for my technical high school
