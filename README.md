@@ -1,7 +1,7 @@
-### Hi, I'm Felipe Torquato.   
+### Hi, I'm FELPST.   
 
-   Systems development student at the technical high school at, ETEC Jorge Street school.  and I'm trying to get into the world of programming
-### About me
+   Programming student and every day trying to improve his knowledge in the area.
+ ###About m
 
 - 🔭 Currently working: on my cbt project for my technical high school
 
