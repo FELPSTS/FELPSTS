@@ -1,7 +1,8 @@
 ### Hi, I'm FELPST.   
 
    Programming student and every day trying to improve his knowledge in the area.
- ###About m
+
+###About me
 
 - 🔭 Currently working: on my cbt project for my technical high school
 
