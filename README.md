@@ -2,7 +2,7 @@
 
    Programming student and every day trying to improve his knowledge in the area.
 
-###About me
+### About me
 
 - 🔭 Currently working: on my cbt project for my technical high school
 
