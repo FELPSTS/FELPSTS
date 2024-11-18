@@ -10,7 +10,7 @@
 
 - 📫 How to get there: you can contact me on my email felipe.s.d.souza@gmail.com
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FELPSTS&layout=Compact layout&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FELPSTS&layout=Compactlayout&theme=transparent)
 
 ##
           
