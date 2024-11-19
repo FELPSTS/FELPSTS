@@ -9,10 +9,8 @@
 - 🌱 I am currently learning: Javascript and typescript along with technical education subjects
 
 - 📫 How to get there: you can contact me on my email felipe.s.d.souza@gmail.com
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=donut&theme=transparent)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=transparent)
 
 ##
           
