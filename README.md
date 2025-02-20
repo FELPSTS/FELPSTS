@@ -11,6 +11,7 @@
 I'm a developer who loves solving problems and building efficient back-end solutions. Currently, I'm studying Systems Analysis and Development at Fatec São Caetano do Sul and working on projects involving systems integration, data management, and process automation.
 
 I've worked on both academic and professional projects, including:<br>
+🚧 Quiet Head - A platform for interaction between drivers and scheduling of car meetups. <br>
 ✅ Formazzi – A corporate training platform with certificate issuance<br>
 ✅ LEIA – An AI-powered system for automatic code documentation<br>
 ✅ Algorithm Benchmarking – Performance comparison of sorting algorithms (Bubble Sort & Merge Sort)<br>
