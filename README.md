@@ -24,7 +24,10 @@ I've worked on both academic and professional projects, including:<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=transparent)
 ##
-          
+
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,c,java,nextjs,mysql" /><br>
+
 <div> 
  <a href="https://discord.gg/Felpst#7547" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:macleimotog0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
