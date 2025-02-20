@@ -26,7 +26,7 @@ I've worked on both academic and professional projects, including:<br>
 ##
 
 
-<img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,nextjs,mysql,mongodb,django,redis,dart,aws" /><br>
+<img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,nextjs,mysql,mongodb,django,redis,dart," /><br>
 
 <div> 
  <a href="https://discord.gg/Felpst#7547" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
