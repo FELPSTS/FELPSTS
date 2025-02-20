@@ -1,14 +1,25 @@
-### Hi, I'm FELPST.   
+![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+# Hi, I'm Felipe Torquato! 👋
 
-   Programming student and every day trying to improve his knowledge in the area.
 
-### About me
+🎓 Systems Analysis and Development Student
+💻 Passionate about Back-End Development
+🚀 Exploring Django, MongoDB, Redis, and REST APIs
 
-- 🔭 Currently working: on my cbt project for my technical high school
+### 💡 About Me
 
-- 🌱 I am currently learning: Javascript and typescript along with technical education subjects
+I'm a developer who loves solving problems and building efficient back-end solutions. Currently, I'm studying Systems Analysis and Development at Fatec São Caetano do Sul and working on projects involving systems integration, data management, and process automation.
 
-- 📫 How to get there: you can contact me on my email felipe.s.d.souza@gmail.com
+I've worked on both academic and professional projects, including:<br>
+✅ Formazzi – A corporate training platform with certificate issuance<br>
+✅ LEIA – An AI-powered system for automatic code documentation<br>
+✅ Algorithm Benchmarking – Performance comparison of sorting algorithms (Bubble Sort & Merge Sort)<br>
+
+### 🔧 Technologies & Tools
+💾 Back-End: Django REST Framework | Node.js <br>
+🗄️ Databases: MongoDB | Redis | SQL <br>
+⚡ APIs & Integrations: REST APIs | Web Services<br>
+🔍 Others: Docker | Git | CI/CD<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=transparent)
 ##
