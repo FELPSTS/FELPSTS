@@ -21,10 +21,8 @@ I've worked on both academic and professional projects, including:<br>
 ⚡ APIs & Integrations: REST APIs | Web Services<br>
 🔍 Others: Docker | Git | CI/CD<br>
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=transparent" height="200px"/>,<img src="http://github-readme-streak-stats.herokuapp.com?user=felpsts&theme=dark&background=000000" height="200px"/>
-</div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=transparent" height="180px"/>  <img src="http://github-readme-streak-stats.herokuapp.com?user=felpsts&theme=dark&background=000000" height="180px"/>
+  
 ##
 
 <img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,nextjs,mysql,mongodb,django,redis,dart," /><br>
