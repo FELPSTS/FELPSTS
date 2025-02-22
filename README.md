@@ -21,7 +21,7 @@ I've worked on both academic and professional projects, including:<br>
 ⚡ APIs & Integrations: REST APIs | Web Services<br>
 🔍 Others: Docker | Git | CI/CD<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=transparent), ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felpsts&background=grey&layout=compact&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=transparent), ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felpsts&theme=dark&background=000000)
 ##
 
 
