@@ -16,7 +16,7 @@ I've worked on both academic and professional projects, including:<br>
 ✅ Algorithm Benchmarking – Performance comparison of sorting algorithms (Bubble Sort & Merge Sort)<br>
 
 ### 🔧 Technologies & Tools
-💾 Back-End: Django REST Framework | Node.js <br>
+💾 Back-End: .NET | Django| Node.js | REST Framework <br>
 🗄️ Databases: MongoDB | Redis | SQL <br>
 ⚡ APIs & Integrations: REST APIs | Web Services<br>
 🔍 Others: Docker | Git | CI/CD<br>
