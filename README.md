@@ -28,7 +28,9 @@ I've worked on both academic and professional projects, including:<br>
 
   
 ##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FELPSTS1849&label=Profile%20views&color=008000&style=flat" alt="suraj1849" /> </p>
+<p  align="center"> <img src="https://komarev.com/ghpvc/?username=FELPSTS1849&label=Profile%20views&color=008000&style=flat" alt="suraj1849" /> </p>
+
+
 <img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,nextjs,mysql,mongodb,django,redis,dart," /><br>
 
 <div> 
