@@ -25,14 +25,12 @@ I've worked on both academic and professional projects, including:<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=github_dark&text_color=FFFFFF&border_color=00FF00&title_color=00FF00" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FELPSTS&theme=github-dark&text_color=00FF00&border_color=00FF00" height="180px"/>
 </p>
-
-
   
 ##
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=FELPSTS1849&label=Profile%20views&color=008000&style=flat" alt="suraj1849" /> </p>
 
 
-<img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,nextjs,mysql,mongodb,django,redis,dart,cs" /><br>
+<img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,nextjs,mysql,mongodb,django,redis,dart" />
 
 <div> 
  <a href="https://discord.gg/Felpst#7547" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
