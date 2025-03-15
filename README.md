@@ -22,8 +22,8 @@ I've worked on both academic and professional projects, including:<br>
 🔍 Others: Docker | Git | CI/CD<br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=github_dark&border_color=00FF00" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FELPSTS&theme=github-dark&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=github_dark&text_color=00FF00&border_color=00FF00" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FELPSTS&theme=github-dark&text_color=00FF00&border_color=00FF00" height="180px"/>
 </p>
   
 ##
