@@ -1,6 +1,5 @@
   # Hi, I'm Felipe Torquato! 👋
 
-
 🎓 Systems Analysis and Development Student
 💻 Passionate about Back-End Development
 🚀 Exploring Django, MongoDB, Redis, and REST APIs
@@ -21,10 +20,10 @@ I've worked on both academic and professional projects, including:<br>
 ⚡ APIs & Integrations: REST APIs | Web Services<br>
 🔍 Others: Docker | Git | CI/CD<br>
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsts&layout=compact&theme=github_dark&text_color=00FF00&border_color=00FF00&title_color=00FF00" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FELPSTS&theme=github-dark&text_color=00FF00&border_color=00FF00" height="180pxtitle_color=00FF00"/>
-</p>
+
   
 ##
 
