@@ -1,5 +1,5 @@
   # Hi, I'm Felipe Torquato! 👋
- 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 
+ 🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩
 
 🎓 Systems Analysis and Development Student
 💻 Passionate about Back-End Development
