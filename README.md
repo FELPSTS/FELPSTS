@@ -31,7 +31,7 @@ I've worked on both academic and professional projects, including:<br>
 <p  align="center"> <img src="https://komarev.com/ghpvc/?username=FELPSTS1849&label=Profile%20views&color=008000&style=flat" alt="suraj1849"/> </p>
 
 
-<img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,nextjs,mysql,mongodb,django,redis,dart"/>
+<img src="https://skillicons.dev/icons?i=,nodejs,python,flask,typescript,c,dotnet,java,Spriingboot,mysql,mongodb,django,redis,dart"/>
 
 <div> 
  <a href="https://discord.gg/Felpst#7547" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
