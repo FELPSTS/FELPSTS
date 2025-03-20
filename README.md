@@ -1,9 +1,9 @@
   # Hi, I'm Felipe Torquato! 👋
  🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩🟢🟩 
 
-🎓 Systems Analysis and Development Student
-💻 Passionate about Back-End Development
-🚀 Exploring Django, MongoDB, Redis, and REST APIs
+🎓 Systems Analysis and Development Student<p>
+💻 Passionate about Back-End Development<p>
+🚀 Exploring Django, MongoDB, Redis, and REST APIs<p>
 
 ### 💡 About Me
 
