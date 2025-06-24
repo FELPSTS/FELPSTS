@@ -3,7 +3,7 @@
 
 🎓 Systems Analysis and Development Student<p>
 💻 Passionate about Back-End Development<p>
-🚀 Exploring Django, MongoDB, Redis, and REST APIs<p>
+🚀 Exploring .net, C# and advanced architecture
 
 ### 💡 About Me
 
