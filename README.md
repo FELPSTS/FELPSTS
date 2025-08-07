@@ -3,7 +3,7 @@
 
 🎓 Systems Analysis and Development Student<p>
 💻 Passionate about Back-End Development<p>
-🚀 Exploring .net, C# and advanced architecture
+🚀 Exploring Spring Framework and advanced architecture
 
 ### 💡 About Me
 
@@ -16,7 +16,7 @@ I've worked on both academic and professional projects, including:<br>
 ✅ Algorithm Benchmarking – Performance comparison of sorting algorithms (Bubble Sort & Merge Sort)<br>
 
 ### 🔧 Technologies & Tools
-💾 Back-End: .NET | SpringBoot | Django|Node.js <br>
+💾 Back-End: SpringBoot| .Net <br>
 🗄️ Databases: MongoDB | Redis | SQL <br>
 ⚡ APIs & Integrations: REST APIs | Web Services<br>
 🔍 Others: Docker | Git | CI/CD<br>
